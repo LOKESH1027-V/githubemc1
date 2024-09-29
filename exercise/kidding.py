@@ -1,0 +1,7 @@
+#print("First python programm")
+#print("It is declared like this")
+#print('print("what to print")')
+#print("print("what t print")") 
+#print("First python program \nIts is declared ")
+#print("lokesh"+" "+"v")      
+#print('String manipulation excess\nString concatenation is done woth "+" sign\ne.g.print("Helloworld"+"loki")\nNew lines can be created woth a backslash and n')

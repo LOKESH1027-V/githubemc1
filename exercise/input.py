@@ -1,0 +1,11 @@
+#print('Hello '+input("What is your name"))
+#print("Hey "+input("What is your name:")+", How are you?")
+name=input("What is your name:")
+print("Hello "+name)
+print('Length of '+name+" is ",len(name))
+name=input("What is your name:")
+print("Hello "+name)
+l=len(name)
+print('Length of '+name+" is ",l)
+print(name[0])
+
